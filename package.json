@@ -36,6 +36,7 @@
   "description": "Start package for Bulma",
   "devDependencies": {
     "@babel/core": "^7.7.2",
+    "@babel/preset-react": "^7.7.0",
     "autoprefixer": "^9.4.7",
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
